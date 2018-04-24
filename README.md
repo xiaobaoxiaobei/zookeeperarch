@@ -1,1 +1,1 @@
-# zookeeperarch
+# 以zookeeper.3.6版本，抽取出zookeeper主要的框架代码，尽量不涉及具体的业务代码，并且能够运行起来。
